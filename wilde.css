@@ -1,0 +1,25 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+.stage-direction{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    color: rgba(0, 0, 0, 0.103);
+}
+.stage-direction:hover{
+    color: blue;
+}
+.name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: black;
+
+}
+.PARKER{
+    color: chocolate;
+}
+.LADY{
+    color: cyan;
+}
